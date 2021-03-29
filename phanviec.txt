@@ -1,0 +1,6 @@
+duyen_dang nhap
+mai_tao tk
+tuan_them
+tinh_xoa
+duc_sua
+han_dang xuat
